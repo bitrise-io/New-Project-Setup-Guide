@@ -28,9 +28,10 @@ First, create a Git repository for the new project, then copy-paste the **TODO**
     - [ ] Heroku pipeline to connect the two
     - [ ] Add this to the readme: How to create a new Heroku app & deploy the project to it
 - [ ] Setup continuous deployment for the project - just add it to the existing [bitrise.io](https://www.bitrise.io) config
+- [ ] Use [releaseman](https://github.com/bitrise-tools/releaseman) to automate the release and CHANGELOG generation
 - [ ] Iterate on the project (and on the automation), test the automatic deployment
 
 Web projects: 
 
-- [ ] Add a log monitoring to the project
+- [ ] Add a log monitoring service to the project
   - logentries
