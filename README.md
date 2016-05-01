@@ -8,8 +8,6 @@ First, create a Git repository for the new project, then copy-paste the **TODO**
 
 - [ ] Setup the base code (generate the template project, e.g. create a new Xcode project or `rails new`)
   - [ ] commit & push
-- [ ] Write tests & base functionality, BDD/TDD preferred
-- [ ] Setup continuous integration (testing) on [bitrise.io](https://www.bitrise.io)
 - [ ] Add linter tools
   - go:
     - [ ] `go test`
@@ -20,7 +18,8 @@ First, create a Git repository for the new project, then copy-paste the **TODO**
   - ruby:
     - [ ] [rubocop](https://github.com/bbatsov/rubocop)
     - [ ] __WEB__ [brakeman](https://github.com/presidentbeef/brakeman)
-
+- [ ] Write tests & base functionality, BDD/TDD preferred
+- [ ] Setup continuous integration (testing) on [bitrise.io](https://www.bitrise.io)
 - [ ] Prepare a staging and a prod env
   - Heroku:
     - [ ] Staging app
