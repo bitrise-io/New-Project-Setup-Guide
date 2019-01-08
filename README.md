@@ -19,14 +19,14 @@ First, create a Git repository for the new project, then copy-paste the **TODO**
     - [ ] [rubocop](https://github.com/bbatsov/rubocop)
     - [ ] __WEB__ [brakeman](https://github.com/presidentbeef/brakeman)
 - [ ] Write tests & base functionality, BDD/TDD preferred
-- [ ] Setup continuous integration (testing) on [bitrise.io](https://www.bitrise.io)
+- [ ] Setup **continuous integration** (testing) on [bitrise.io](https://www.bitrise.io)
 - [ ] Prepare a staging and a prod env
   - Heroku:
     - [ ] Staging app
     - [ ] Prod app
     - [ ] Heroku pipeline to connect the two
     - [ ] Add this to the readme: How to create a new Heroku app & deploy the project to it
-- [ ] Setup continuous deployment for the project - just add it to the existing [bitrise.io](https://www.bitrise.io) config
+- [ ] Setup **continuous deployment** for the project - just add it to the existing [bitrise.io](https://www.bitrise.io) config
 - [ ] Use [releaseman](https://github.com/bitrise-tools/releaseman) to automate the release and CHANGELOG generation
 - [ ] Iterate on the project (and on the automation), test the automatic deployment
 
