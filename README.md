@@ -20,7 +20,7 @@ First, create a Git repository for the new project, then copy-paste the **TODO**
     - [ ] __WEB__ [brakeman](https://github.com/presidentbeef/brakeman)
 - [ ] Write tests & base functionality, BDD/TDD preferred
 - [ ] Setup **continuous integration** (testing) on [bitrise.io](https://www.bitrise.io)
-- [ ] Prepare a staging and a prod env
+- [ ] __WEB__ Prepare a staging and a prod env
   - Heroku:
     - [ ] Staging app
     - [ ] Prod app
