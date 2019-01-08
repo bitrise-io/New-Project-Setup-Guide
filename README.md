@@ -34,3 +34,7 @@ Web projects:
 
 - [ ] Add a log monitoring service to the project
   - logentries
+  - logdna
+  - datadog
+- [ ] Add Monitoring & Alerting, to detect when the service is down and to alert you about it
+  - pagerduty + datadog
